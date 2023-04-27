@@ -1,6 +1,6 @@
 # Welcome, I'm Mateus Cohuzer 🤟
   
-- 🛰️ I'm graduating in IT technician at UTFPR - Campo Mourão
+- 🛰️ I am graduating as an IT technician at UTFPR - Campo Mourão
 
 - 🔎 Find me:
 
