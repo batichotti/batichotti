@@ -3,13 +3,14 @@
 - 🖥️ Graduated as a Computer Technician from UTFPR - Campo Mourão
 - 🎓 Currently pursuing a degree in Computer Science at UTFPR - Campo Mourão
 
-- 🔎 Find me:
+- 🔎 Find me at:
 
 <div align="center">
 
  [<img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:matebatichotti@gmail.com)
  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Mateus_Cohuzer/)
- [<img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/Kj5y5TQ3EQ)
+ [<img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/Kj5y5TQ3EQ) 
+ [<img src = "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/mateus-batichotti/)
 </div>
 
 
