@@ -16,8 +16,8 @@
 
 <h2 align="center" style="margin-bottom: 1rem"> 🧭 Github Analytics</h2>
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api?username=batichotti&show_icons=true&hide=issues,contribs&theme=radical)
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batichotti&layout=compact&theme=tokyonight)
 
 ---
 
