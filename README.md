@@ -16,12 +16,8 @@
 
 <h2 align="center" style="margin-bottom: 1rem"> 🧭 Github Analytics</h2>
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=batichotti&show_icons=true&hide=issues,contribs&theme=radical" alt="Mateus's stats"/>
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=batichotti&layout=compact&theme=radical" alt="Mateus's most languages"/>
-</p>
-
-<br><br>
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api?username=batichotti&show_icons=true&hide=issues,contribs&theme=radical)
 
 ---
 
