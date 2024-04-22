@@ -1,6 +1,7 @@
-# Welcome, I'm Mateus Cohuzer 🤟
+# Welcome, I'm Mateus Batichotti 🤟
   
-- 🛰️ I am graduating as an IT technician at UTFPR - Campo Mourão
+- 🖥️ Graduated as a Computer Technician from UTFPR - Campo Mourão
+- 🎓 Currently pursuing a degree in Computer Science at UTFPR - Campo Mourão
 
 - 🔎 Find me:
 
@@ -17,8 +18,8 @@
 <h2 align="center" style="margin-bottom: 1rem"> 🧭 Github Analytics</h2>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MateusCohuzer&show_icons=true&hide=issues,contribs&theme=radical" alt="Mateus's stats"/>
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MateusCohuzer&layout=compact&theme=radical" alt="Mateus's most languages"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=batichotti&show_icons=true&hide=issues,contribs&theme=radical" alt="Mateus's stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=batichotti&layout=compact&theme=radical" alt="Mateus's most languages"/>
 </p>
 
 <br><br>
