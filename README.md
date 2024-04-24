@@ -1,6 +1,6 @@
 # Welcome, I'm Mateus Batichotti 🫡
   
-- 🖥️ Graduated as a Computer Technician from UTFPR - Campo Mourão
+- 🖥️ Graduated as a Computer Technician at UTFPR - Campo Mourão
 - 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão
 
 ---
