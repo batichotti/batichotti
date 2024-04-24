@@ -38,6 +38,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
+[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)](https://github.com/batichotti/batichotti)
 [![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/batichotti/JFaceRecognizer)
@@ -45,7 +46,6 @@
 [![ANSYS](https://img.shields.io/badge/Ansys-FFB71B.svg?style=for-the-badge&logo=Ansys&logoColor=black)](https://www.atenaeditora.com.br/catalogo/ebook/collection-applied-chemical-engineering-2)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 <!--
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white)
  -->
