@@ -72,4 +72,6 @@
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Mateus_Cohuzer)
 
-## Thanks for taking a peek 🤩
+<div align='center'>
+<h2>Thanks for taking a peek 🤩</h2>
+</div>
