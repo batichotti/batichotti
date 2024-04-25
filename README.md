@@ -30,7 +30,7 @@
 
 ---
 
-### 📚 Programing Language
+### 📚 Programing Languages
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/batichotti/Zephyrus-Discord-Bot)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/batichotti/One-Piece-Game)
@@ -50,7 +50,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
-### 💾 Database
+### 💾 Databases
 [![MySQL](https://img.shields.io/badge/MySQL-0110DD?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/batichotti/CRUD-Generator-SQL)
 
 
