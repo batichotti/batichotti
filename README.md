@@ -18,11 +18,6 @@
 
 </div>
 
-<script>
-    alert('oi')
-
-</script>
-
 <h2 align="center" style="margin-bottom: 1rem"> 🧭 Github Analytics</h2>
 
 ![Matt Batichotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&include_all_commits=true&show_icons=true&number_format=short&theme=github_dark_dimmed)
