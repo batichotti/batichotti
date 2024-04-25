@@ -21,7 +21,7 @@
 <h2 align="center" style="margin-bottom: 1rem"> 🧭 Github Analytics</h2>
 
 ![Matt Batichotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&include_all_commits=true&show_icons=true&number_format=short&theme=github_dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batichotti&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batichotti&langs_count=8&layout=compact&theme=github_dark_dimmed)
 
 ---
 
