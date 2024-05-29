@@ -35,7 +35,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
-[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)](https://github.com/batichotti/batichotti)
+<!--[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)](https://github.com/batichotti/batichotti)-->
 [![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/batichotti/JFaceRecognizer)
