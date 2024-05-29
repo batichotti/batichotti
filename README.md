@@ -40,8 +40,6 @@
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/batichotti/JFaceRecognizer)
 [![Selenium](https://img.shields.io/badge/Selenium-43702A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/batichotti/Python-Selenium-Whatsapp-Bot)
-[![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)](https://github.com/batichotti/CRUD-Generator-SQL)
-[![Meaven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)](https://github.com/batichotti/JFaceRecognizer)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
