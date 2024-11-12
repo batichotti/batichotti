@@ -25,35 +25,52 @@
 
 ---
 
-### 📚 Programing Languages
+### 📚 Programming Languages
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/batichotti/Zephyrus-Discord-Bot)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/batichotti/One-Piece-Game)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/batichotti/Algoritmos-C)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/batichotti/Titan-Files-Research)
 
+---
 
-### 🧮 Skills
+### 🧠 Technical Skills
+
+#### Web Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
-<!--[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)](https://github.com/batichotti/batichotti)-->
-[![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/batichotti/JFaceRecognizer)
-[![Selenium](https://img.shields.io/badge/Selenium-43702A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/batichotti/Python-Selenium-Whatsapp-Bot)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+### Front-End
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
+
+### Back-End
+[![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)](https://github.com/batichotti/Learn-Node)
+
+#### Data Science & Machine Learning
+[![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Titan-Files-Research)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Titan-Files-Research)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/batichotti/JFaceRecognizer)
+
+#### Automation & Web Scraping
+[![Selenium](https://img.shields.io/badge/Selenium-43702A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/batichotti/Python-Selenium-Whatsapp-Bot)
+[![PyAutoGUI](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/batichotti/SmartAlbum-Bot-Python)
+
+---
 
 ### 💾 Databases
 [![MySQL](https://img.shields.io/badge/MySQL-0110DD?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/batichotti/CRUD-Generator-SQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
+---
 
-### 💻 OS
+### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
 
+---
 
-### 🛠️ Developing Environment
+### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -67,11 +84,11 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Vegas](https://img.shields.io/badge/VEGAS-1A1A1A.svg?style=for-the-badge&logo=VEGAS&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)
 
-
-### 🤝 Other Links
-
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Mateus_Cohuzer)
+---
 
 <div align='center'>
 <h2>Thanks for taking a peek 🤩</h2>
