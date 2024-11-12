@@ -47,7 +47,7 @@
 
 #### Automation & Web Scraping
 [![Selenium](https://img.shields.io/badge/Selenium-43702A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/batichotti/Python-Selenium-Whatsapp-Bot)
-[![PyAutoGUI](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/batichotti/SmartAlbum-Bot-Python)
+[![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-777BB4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white))](https://github.com/batichotti/SmartAlbum-Bot-Python)
 
 
 ### 💾 Databases
