@@ -23,6 +23,8 @@
 ![Matt Batichotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&include_all_commits=true&show_icons=true&number_format=short&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batichotti&langs_count=8&layout=compact&theme=github_dark_dimmed)
 
+<hr style="border: 0.5px solid #ddd; width: 80%; margin: 20px auto;" />
+
 ### 📚 Programming Languages
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/batichotti/Zephyrus-Discord-Bot)
