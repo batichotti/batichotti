@@ -88,8 +88,6 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)
 
----
-
 <div align='center'>
 <h2>Thanks for taking a peek 🤩</h2>
 </div>
