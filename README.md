@@ -23,8 +23,6 @@
 ![Matt Batichotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&include_all_commits=true&show_icons=true&number_format=short&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batichotti&langs_count=8&layout=compact&theme=github_dark_dimmed)
 
----
-
 ### 📚 Programming Languages
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/batichotti/Zephyrus-Discord-Bot)
@@ -32,18 +30,16 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/batichotti/Algoritmos-C)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/batichotti/Titan-Files-Research)
 
----
-
 ### 🧠 Technical Skills
 
 #### Web Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 
-### Front-End
+#### Front-End
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 
-### Back-End
+#### Back-End
 [![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)](https://github.com/batichotti/Learn-Node)
 
 #### Data Science & Machine Learning
@@ -55,20 +51,15 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43702A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/batichotti/Python-Selenium-Whatsapp-Bot)
 [![PyAutoGUI](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/batichotti/SmartAlbum-Bot-Python)
 
----
 
 ### 💾 Databases
 [![MySQL](https://img.shields.io/badge/MySQL-0110DD?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/batichotti/CRUD-Generator-SQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b89AF?style=for-the-badge&logo=postgresql)
 
----
-
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
-
----
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -76,8 +67,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
----
 
 ### 🧷 Other Skills
 [![ANSYS](https://img.shields.io/badge/Ansys-FFB71B.svg?style=for-the-badge&logo=Ansys&logoColor=black)](https://www.atenaeditora.com.br/catalogo/ebook/collection-applied-chemical-engineering-2)
@@ -87,6 +76,8 @@
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)
+
+<hr style="border: 0.5px solid #ddd; width: 80%; margin: 20px auto;" />
 
 <div align='center'>
 <h2>Thanks for taking a peek 🤩</h2>
