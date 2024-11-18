@@ -68,14 +68,23 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-### 🧷 Other Skills
-[![ANSYS](https://img.shields.io/badge/Ansys-FFB71B.svg?style=for-the-badge&logo=Ansys&logoColor=black)](https://www.atenaeditora.com.br/catalogo/ebook/collection-applied-chemical-engineering-2)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+<details>
+<summary>
+<b>🧷 Other Skills<b>
+</summary>
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)  
+![ANSYS](https://img.shields.io/badge/Ansys-FFB71B.svg?style=for-the-badge&logo=Ansys&logoColor=black)  
+![Audacity](https://img.shields.io/badge/Audacity-0000CC.svg?style=for-the-badge&logo=Audacity&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)  
+![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)  
+![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)  
 ![Vegas](https://img.shields.io/badge/VEGAS-1A1A1A.svg?style=for-the-badge&logo=VEGAS&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)
+
+</details>
 
 <hr style="border: 0.5px solid #ddd; width: 80%; margin: 20px auto;" />
 
