@@ -86,8 +86,6 @@
 
 </details>
 
-<hr style="border: 0.5px solid #ddd; width: 80%; margin: 20px auto;" />
-
 <div align='center'>
 <h2>Thanks for taking a peek 🤩</h2>
 </div>
