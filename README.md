@@ -1,8 +1,8 @@
 <div align='center'> <h1> Welcome, I'm Mateus Batichotti 🫡 </h1> </div>
-  
-🖥️ Graduated as a Computer Technician at UTFPR - Campo Mourão
 
 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão
+
+🖥️ Graduated as a Computer Technician at UTFPR - Campo Mourão
 
 <div align="center">
 
