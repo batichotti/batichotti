@@ -55,7 +55,7 @@
 
 ### 💾 Databases
 [![MySQL](https://img.shields.io/badge/MySQL-0110DD?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/batichotti/CRUD-Generator-SQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b0F0Fb?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eeeeee?style=for-the-badge&logo=postgresql)
 
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
