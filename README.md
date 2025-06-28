@@ -25,7 +25,7 @@
 ### 📚 Programming Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/batichotti/Sins-Of-Macunaima)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/batichotti/Zephyrus-Discord-Bot)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/batichotti/Calculadora-POO-APS)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/batichotti/AvisaAi-POO-APS)
 [![C](https://img.shields.io/badge/C-2C5E8B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/batichotti/Algoritmos-C)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/batichotti/Titan-Files-Research)
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
