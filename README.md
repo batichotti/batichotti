@@ -35,12 +35,15 @@
 
 #### Web Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
+[![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/batichotti/Electron-CRUD)
 [![Phaser.js](https://img.shields.io/badge/Phaser.js-2E9AFE?style=for-the-badge&logo=phaser&logoColor=white)](https://github.com/batichotti/Sins-Of-Macunaima)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 #### Front-End
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/batichotti/Sins-Of-Macunaima)
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/batichotti/Electron-CRUD)
+[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://github.com/batichotti/Electron-CRUD)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 
 #### Back-End
@@ -62,10 +65,9 @@
 [![MySQL](https://img.shields.io/badge/MySQL-0110DD?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/batichotti/CRUD-Generator-SQL)
 
 ### 💻 Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <details>
 <summary>
