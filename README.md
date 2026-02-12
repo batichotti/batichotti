@@ -27,7 +27,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/batichotti/Zephyrus-Discord-Bot)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/batichotti/AvisaAi-POO-APS)
 [![C](https://img.shields.io/badge/C-2C5E8B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/batichotti/Algoritmos-C)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/batichotti/Titan-Files-Research)
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/batichotti/One-Piece-Game)
 
@@ -36,14 +35,14 @@
 #### Web Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 [![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/batichotti/Electron-CRUD)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/batichotti/Finance-CRUD-React)
 [![Phaser.js](https://img.shields.io/badge/Phaser.js-2E9AFE?style=for-the-badge&logo=phaser&logoColor=white)](https://github.com/batichotti/Sins-Of-Macunaima)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 #### Front-End
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/batichotti/Sins-Of-Macunaima)
-[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/batichotti/Electron-CRUD)
-[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://github.com/batichotti/Electron-CRUD)
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/batichotti/Finance-CRUD-React)
+[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://github.com/batichotti/Finance-CRUD-React)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/batichotti/Clube-Do-Filme)
 
 #### Back-End
