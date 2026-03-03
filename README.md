@@ -57,6 +57,9 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43702A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/batichotti/Python-Selenium-Whatsapp-Bot)
 [![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-777BB4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/batichotti/SmartAlbum-Bot-Python)
 
+#### Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 
 ### 💾 Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eeeeee?style=for-the-badge&logo=postgresql)](https://github.com/batichotti/Sins-Of-Macunaima)
