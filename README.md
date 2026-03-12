@@ -20,6 +20,26 @@
 ![Matt Batichotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=batichotti&include_all_commits=true&show_icons=true&number_format=short&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batichotti&langs_count=8&layout=compact&theme=github_dark_dimmed)
 
+<!--
+<table border="0" width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=batichotti&theme=nord_dark" width="100%">
+    </td>
+    <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batichotti&theme=nord_dark" width="100%">
+    </td>
+    <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batichotti&theme=nord_dark" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batichotti&theme=nord_dark" width="75%">
+</p>
+-->
+
 <hr style="border: 0.5px solid #ddd; width: 80%; margin: 20px auto;" />
 
 ### 📚 Programming Languages
