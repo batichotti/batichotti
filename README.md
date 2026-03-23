@@ -47,7 +47,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/batichotti/Zephyrus-Discord-Bot)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/batichotti/AvisaAi-POO-APS)
 [![C](https://img.shields.io/badge/C-2C5E8B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/batichotti/Algoritmos-C)
-[![Go](https://img.shields.io/badge/Go-00A0D8.svg?style=for-the-badge&logo=Go&logoColor=white)](https://github.com/batichotti/CooperaAgro-Blockchain)
+<!-- [![Go](https://img.shields.io/badge/Go-00A0D8.svg?style=for-the-badge&logo=Go&logoColor=white)](https://github.com/batichotti/CooperaAgro-Blockchain) -->
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/batichotti/Mugen-Project-2)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/batichotti/One-Piece-Game)
 
